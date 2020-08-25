@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27636dc62f0c9e9448046947ff78359e, type: 3}
+  m_Name: GamePanel
+  m_EditorClassIdentifier: 
+  id: 2
+  startAnimation: 2
+  endAnimation: 2
+  uiPanelBehaviour: {fileID: 2221552013703305222, guid: 6e27aa21eead10d488a830155781c7b2,
+    type: 3}
+  panelName: Game Panel
+  panelPrefab: {fileID: 2221552013703305225, guid: 6e27aa21eead10d488a830155781c7b2,
+    type: 3}
+  LoadOnAwake: 0

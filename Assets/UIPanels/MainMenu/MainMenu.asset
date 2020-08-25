@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27636dc62f0c9e9448046947ff78359e, type: 3}
+  m_Name: MainMenu
+  m_EditorClassIdentifier: 
+  id: 0
+  startAnimation: 0
+  endAnimation: 0
+  uiPanelBehaviour: {fileID: 6482156135612178027, guid: 7dac5c389c07b334aae10109043761fb,
+    type: 3}
+  panelName: Main Menu
+  panelPrefab: {fileID: 6482156135612178016, guid: 7dac5c389c07b334aae10109043761fb,
+    type: 3}
+  LoadOnAwake: 1
